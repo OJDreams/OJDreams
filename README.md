@@ -1,9 +1,14 @@
-## Hi there 👋
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jared-elison-8058a2322">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+:man_technologist: About Me :
+    
+    - 🌱 I’m a student at BYU majoring in Statistics with an emphasis in Biostatistics.
+    - 🔭 I currently work in a Biochemistry lab and use Python for data analysis.
 
 <!--
-**OJDreams/OJDreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
